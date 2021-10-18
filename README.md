@@ -20,9 +20,17 @@ Download Video, Reels, Shorts, Music, Images, Files from Instagram, Facebook and
 6. YouTube video download
 7. youtube shorts download
 8. youtube music (audio) download
+9. whatsapp status download
 
 
-## Getting Started
+# Contributing 
+
+Install [Flutter](https://flutter.dev/docs/get-started/codelab) sdk, android studio and vscode
+
+Fork and clone this [project](https://github.com/caffodils/Caffodils-App)
+make your changes and create a pull request
+
+## Getting Started with flutter
 
 This project is a starting point for a Flutter application.
 
