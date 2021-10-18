@@ -4,7 +4,33 @@ Caffodils - Download everything
 Flutter app for Android and IOS. 
 Download Video, Reels, Shorts, Music, Images, Files from Instagram, Facebook and YouTube
 
-## Getting Started
+# Features available 
+
+1. Download Instagram reels
+2. Download Instagram post image
+
+
+# ToDo
+
+1. Instagram post video download
+2. IGTV
+3. Instagram Album Download 
+4. Facebook Post Image Download
+5. Facebook Video download
+6. YouTube video download
+7. youtube shorts download
+8. youtube music (audio) download
+9. whatsapp status download
+
+
+# Contributing 
+
+Install [Flutter](https://flutter.dev/docs/get-started/codelab) sdk, android studio and vscode
+
+Fork and clone this [project](https://github.com/caffodils/Caffodils-App)
+make your changes and create a pull request
+
+## Getting Started with flutter
 
 This project is a starting point for a Flutter application.
 
