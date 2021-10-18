@@ -1,6 +1,8 @@
 # caffodils
 
-A new Flutter project.
+Caffodils - Download everything
+Flutter app for Android and IOS. 
+Download Video, Reels, Shorts, Music, Images, Files from Instagram, Facebook and YouTube
 
 ## Getting Started
 
