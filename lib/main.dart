@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bot_toast/bot_toast.dart';
-import 'package:caffodils/views/profile/home_screen.dart';
+import 'package:caffodils/views/home_screen.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

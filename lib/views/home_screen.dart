@@ -1,4 +1,5 @@
 import 'dart:ui';
+
 import 'package:bot_toast/bot_toast.dart';
 import 'package:caffodils/controllers/check_link.dart';
 import 'package:flutter/foundation.dart';
@@ -63,6 +64,14 @@ class _HomeScreenState extends State<HomeScreen> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              const Text(
+                'Only Insta Reels and Post Pic download supported at this moment, project is under development',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  color: Colors.grey,
+                ),
+              ),
+              const SizedBox(height: 10.0),
               Container(
                 margin: const EdgeInsets.symmetric(
                   horizontal: 30.0,
