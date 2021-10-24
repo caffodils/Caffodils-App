@@ -27,8 +27,8 @@ Download Video, Reels, Shorts, Music, Images, Files from Instagram, Facebook and
 
 Install [Flutter](https://flutter.dev/docs/get-started/codelab) sdk, android studio and vscode
 
-Fork and clone this [project](https://github.com/caffodils/Caffodils-App)
-make your changes and create a pull request
+- Fork and clone this [project](https://github.com/caffodils/Caffodils-App)
+- make your changes and create a pull request
 
 ## Getting Started with flutter
 
@@ -42,3 +42,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Discussion
+
+Join Telegram [group](https://t.me/joinchat/BgYhamONKeMyNzE1)
